@@ -1,0 +1,84 @@
+{
+    "questions":[
+        {
+          "question":"W której częsci Europy leży Polska",
+          "answer1":"Centralnej",
+          "answer2":"Północnej",
+          "answer3":"Południowej",
+          "answer4":"Żadne z powyższych",
+          "correctAnswer":"answer1"
+        },
+        {
+          "question":"Która granica Polski jest najdłuższa",
+          "answer1":"Z Czechami",
+          "answer2":"Z Niemcami",
+          "answer3":"Z Ukrainą",
+          "answer4":"Z Białorusią",
+          "correctAnswer":"answer1"
+        },
+        {
+          "question":"Jaki typ jeziora to jezioro Śniardwy",
+          "answer1":"Rymowe",
+          "answer2":"Anknorkowe",
+          "answer3":"Morenowe",
+          "answer4":"Przybrzeżne",
+          "correctAnswer":"answer3"
+        },
+        {
+          "question":"Jak nazywa się wies uznawana za środek Polski",
+          "answer1":"Parch",
+          "answer2":"Duża wieś",
+          "answer3":"Wies Sołecka",
+          "answer4":"Piątek",
+          "correctAnswer":"answer4"
+        },
+        {
+          "question":"Który Kraj nie leży w Europie",
+          "answer1":"Hiszpania",
+          "answer2":"Czad",
+          "answer3":"Albania",
+          "answer4":"Chorwacja",
+          "correctAnswer":"answer2"
+        },
+        {
+          "question":"Jaki rodzaj drzew jest najczęstszy w polsce",
+          "answer1":"Jodła",
+          "answer2":"Buk",
+          "answer3":"Brzoza",
+          "answer4":"Sosna",
+          "correctAnswer":"answer4"
+        },
+        {
+          "question":"W jakiej epoce żyjemy",
+          "answer1":"Kenozoik",
+          "answer2":"Prekambr",
+          "answer3":"Mezozoik",
+          "answer4":"Paleozoik",
+          "correctAnswer":"answer1"
+        },
+        {
+          "question":"Jaka jest stolica Brazylii",
+          "answer1":"Brasilia",
+          "answer2":"Puerto-Rico",
+          "answer3":"Coco-Jambo",
+          "answer4":"Maroco",
+          "correctAnswer":"answer1"
+        },
+        {
+          "question":"Jaki jest najwyższy szczyt Polski",
+          "answer1":"Garond",
+          "answer2":"Rysy",
+          "answer3":"Śnieżka",
+          "answer4":"Gubałówka",
+          "correctAnswer":"answer2"
+        },
+        {
+          "question":"Które z tych chmur NIE dają deszczu",
+          "answer1":"Stratusy",
+          "answer2":"Cumulonimbus",
+          "answer3":"Cirrocumulus",
+          "answer4":"Nimbostratus",
+          "correctAnswer":"answer3"
+        }
+    ]
+}
