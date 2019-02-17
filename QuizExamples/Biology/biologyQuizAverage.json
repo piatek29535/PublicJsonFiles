@@ -1,0 +1,84 @@
+{
+    "questions":[
+        {
+            "question":"Co to jest imago",
+            "answer1":"Kijanka",
+            "answer2":"Język słonia",
+            "answer3":"Postać dorosła owada",
+            "answer4":"Plemię w Afryce Południowej",
+            "correctAnswer":"answer3"
+        },
+        {
+            "question":"Ile nóg mają pająki",
+            "answer1":"4",
+            "answer2":"6",
+            "answer3":"8",
+            "answer4":"10",
+            "correctAnswer":"answer3"
+        },
+        {
+            "question":"Jaki pierwiastek zawiera się w hemoglobinie",
+            "answer1":"Żelazo",
+            "answer2":"Cynk",
+            "answer3":"Potas",
+            "answer4":"Sód",
+            "correctAnswer":"answer1"
+        },
+        {
+            "question":"Co to jest lancetnik",
+            "answer1":"Zwierze morskie",
+            "answer2":"Roślina górska",
+            "answer3":"Pierwiastek",
+            "answer4":"Żadne z powyższych",
+            "correctAnswer":"answer1"
+        },
+        {
+            "question":"Ile chromosomów ma człowiek",
+            "answer1":"258",
+            "answer2":"152",
+            "answer3":"72",
+            "answer4":"46",
+            "correctAnswer":"answer4"
+        },
+        {
+            "question":"Co to są Krasnorosty",
+            "answer1":"Krzewy",
+            "answer2":"Glony",
+            "answer3":"Drzewa",
+            "answer4":"Porosty",
+            "correctAnswer":"answer2"
+        },
+        {
+            "question":"Jaki aparat gębowy ma motyl",
+            "answer1":"Liżący",
+            "answer2":"Ssący",
+            "answer3":"Gryzący",
+            "answer4":"Kłująco-ssący",
+            "correctAnswer":"answer2"
+        },
+        {
+            "question":"Do jakiej grupy zwierząt należy padalec",
+            "answer1":"Wąż",
+            "answer2":"Hatteria",
+            "answer3":"Żółw",
+            "answer4":"Żadne z powyższych",
+            "correctAnswer":"answer4"
+        },
+        {
+            "question":"Czego nie znajdziemy w mitochondrium",
+            "answer1":"Rybosomów",
+            "answer2":"Jądra komórkowego",
+            "answer3":"Cytozolu",
+            "answer4":"Tylakoidów",
+            "correctAnswer":"answer4"
+        },
+        {
+            "question":"Którego składnica w powietrzu jest najwięcej",
+            "answer1":"Azotu",
+            "answer2":"Tlenu",
+            "answer3":"Argonu",
+            "answer4":"Dwutlenku węgla",
+            "correctAnswer":"answer1"
+        }
+    ]
+}
